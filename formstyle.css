@@ -1,0 +1,51 @@
+body{
+	background-color: #060c22;
+}
+
+
+
+.form1{
+	padding: 300px;
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
+
+.header1{
+	align-content: center;
+	text-align: center;
+	/*padding-top: 100px;*/
+	color: #F82249;
+}
+
+
+.btn-primary{
+	background-color: #F82249;
+	border-color: #F82249;
+}
+
+.btn-primary:hover{
+	background-color:#0E1B4D;
+	border-color: #F82249;
+	color: white;
+}
+
+.email-color{
+	color: #F82249;
+}
+.pass-color{
+	color: #F82249;
+}
+
+.form-check-label{
+	color: white;
+}
+
+.home1{
+	color: white;
+	margin: 50px; 
+}
+
+.home1:hover{
+	color:#F82249;
+	text-decoration: none;
+}
